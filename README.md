@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @David-KtL
-- 👀 I’m interested in DevOPS
+- 👀 I’m interested in DevOPS and SRE
 - 🌱 I’m currently learning K8s
 - 💞️ I’m looking to collaborate on GCP and AWS
 - 📫 How to reach me ...
